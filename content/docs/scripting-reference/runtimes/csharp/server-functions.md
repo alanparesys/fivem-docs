@@ -17,6 +17,8 @@ is deliberately focused on practical examples rather than being an exhaustive re
 
 The following helpers are provided by the C# runtime and are not regular game natives.
 
+- [TriggerClientEvent (server, C#)](/docs/scripting-reference/runtimes/csharp/functions/TriggerClientEvent/)
+
 ### Registering and handling server events
 
 Use `EventHandlers` to subscribe to server events such as `playerConnecting`, `playerDropped`, or your own custom
